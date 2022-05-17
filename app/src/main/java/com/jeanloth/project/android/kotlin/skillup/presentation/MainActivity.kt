@@ -1,4 +1,4 @@
-package com.jeanloth.project.android.kotlin.skillup
+package com.jeanloth.project.android.kotlin.skillup.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -10,7 +10,7 @@ import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.jeanloth.project.android.kotlin.skillup.ui.theme.SkillUpTheme
+import com.jeanloth.project.android.kotlin.skillup.presentation.theme.SkillUpTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

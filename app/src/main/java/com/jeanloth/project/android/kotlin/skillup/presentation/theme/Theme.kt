@@ -1,4 +1,4 @@
-package com.jeanloth.project.android.kotlin.skillup.ui.theme
+package com.jeanloth.project.android.kotlin.skillup.presentation.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
